@@ -7,7 +7,7 @@ public class doublehefloat {
 
          */
         System.out.println(0.01*100);
-        long sum=0;
+        double sum=0;
         for(int i=0;i<=100;i++){
             sum+=0.01;
         }
