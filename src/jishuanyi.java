@@ -22,7 +22,7 @@ public class jishuanyi {
                 System.out.println("除数不能为0");
             }
         } else {
-            System.out.println("输入的操作符无效");
+            System.out.println("无效");
         }
     }
 }
